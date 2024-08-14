@@ -1,0 +1,1 @@
+An Audio recording of 31 people, 23 with Parkinson's disease (PD). The project's main aim is to identify healthy people from those with PD using recorded speech signals and tone as general voice disorders.
